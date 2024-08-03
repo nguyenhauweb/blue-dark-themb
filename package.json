@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/z1001st/blue-drak-themb"
+    "url": "https://github.com/z1001st/blue-dark-themb"
   },
   "license": "MIT",
   "contributes": {
     "themes": [
       {
-        "label": "Blue-Drak Themb",
+        "label": "Blue-Dark Themb",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blue-Drak Themb-color-theme.json"
+        "path": "./themes/Blue-Dark Themb-color-theme.json"
       }
     ]
   }

@@ -254,6 +254,35 @@
     "debugExceptionWidget.border": "#1e293b"
   },
 	"tokenColors": [
+		//	storage.modifier
+		{
+			"scope": "storage.modifier",
+			"settings": {
+				// "foreground": "#feca57"
+				"foreground": "#33AFFF"
+			}
+		},
+		
+		  {
+			"scope": "meta.function-call",
+			"settings": {
+			  "foreground": "#ff0000" // Màu tím nhạt cho gọi hàm
+			}
+		  },
+		  {
+			"scope": "variable.function",
+			"settings": {
+			  "foreground": "#FFCB6B" // Màu vàng nhạt cho biến hàm
+			}
+		  },
+		
+		//support.type.object.module
+		{
+			"scope": "support.type.object.module.js",
+			"settings": {
+			  "foreground": "#4EC9B0" // Màu vàng sáng cho module
+			}
+		  },
 			{
 			  "scope": "variable",
 			  "settings": {
@@ -340,7 +369,7 @@
 			{
 			  "scope": "storage.type",
 			  "settings": {
-				"foreground": "#C678DD" // Màu hồng sáng cho loại storage
+				"foreground": "#33AFFF" // Màu hồng sáng cho loại storage
 			  }
 			},
 			{
@@ -349,6 +378,7 @@
 				"foreground": "#48dbfb" // Màu xanh ngọc sáng cho biến tham số
 			  }
 			},
+			
 			{
 			  "scope": "entity.name.function",
 			  "settings": {
@@ -376,7 +406,7 @@
 			{
 			  "scope": "support.function",
 			  "settings": {
-				"foreground": "#D1A8FF" // Màu tím sáng cho các hàm hỗ trợ
+				"foreground": "#E5C07B" // Màu tím sáng cho các hàm hỗ trợ
 			  }
 			},
 			{
@@ -1075,13 +1105,7 @@
 					"foreground": "#f472b6"
 				  }
 				},
-				{
-				  "name": "Support",
-				  "scope": "support.function",
-				  "settings": {
-					"foreground": "#99f6e4"
-				  }
-				},
+				
 				{
 				  "name": "Support type",
 				  "scope": "support.type.property-name",
