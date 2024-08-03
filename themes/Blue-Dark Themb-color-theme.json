@@ -316,7 +316,7 @@
 		  "name": "support.constant.property-value.scss",
 		  "scope": "support.constant.property-value.scss,support.constant.property-value.css",
 		  "settings": {
-			"foreground": "#d19a66"
+			"foreground": "#efeff1"
 		  }
 		},
 		{
@@ -745,7 +745,7 @@
 		  "name": "Support type",
 		  "scope": "support.type.property-name",
 		  "settings": {
-			"foreground": "#abb2bf"
+			"foreground": "#7dd3fc"
 		  }
 		},
 		{
@@ -844,7 +844,7 @@
 		  "name": "Attribute class",
 		  "scope": "entity.other.attribute-name.class.css",
 		  "settings": {
-			"foreground": "#d19a66"
+			"foreground": "#f472b6"
 		  }
 		},
 		{
