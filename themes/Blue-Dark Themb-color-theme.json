@@ -51,12 +51,12 @@
 			//   }
 			// },
 			//	meta.var-single-variable.expr.js
-			{
-			  "scope": "meta.var.expr.js",
-			  "settings": {
-				"foreground": "#d19a66"
-			  }
-			},
+			// {
+			//   "scope": "meta.var.expr.js",
+			//   "settings": {
+			// 	"foreground": "#d19a66"
+			//   }
+			// },
 		  {
 			"scope": "variable.other.property.js",
 			"settings": {
