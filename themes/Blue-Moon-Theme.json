@@ -1,6 +1,7 @@
 {
 	"name": "Blue-Moon Theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"toolbar.hoverBackground": "#0f0f1a",
 		"toolbar.activeBackground": "#E94560",
@@ -51,7 +52,7 @@
 		"titleBar.activeBackground": "#0f0f1a",
 		"notificationCenter.border": "#e94560",
 		"notifications.background": "#0f0f1a",
-		"notificationsInfoIcon.foreground": "#e94560",
+		"notificationsInfoIcon.foreground": "#e94560"
 	},
 	"tokenColors": [
 		{

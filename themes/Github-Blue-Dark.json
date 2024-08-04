@@ -2,17 +2,6 @@
     "name": "Github Blue - Dark",
     "type": "dark",
     "semanticHighlighting": true,
-    "semanticTokenColors": {
-      "enumMember": {
-        "foreground": "#94a3b8"
-      },
-      "variable.constant": {
-        "foreground": "#7dd3fc"
-      },
-      "variable.defaultLibrary": {
-        "foreground": "#f472b6"
-      }
-    },
     "tokenColors": [
 		{
 		  "scope": ["comment", "punctuation.definition.comment", "string.comment"],

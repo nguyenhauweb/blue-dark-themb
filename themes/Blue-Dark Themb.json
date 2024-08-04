@@ -1,6 +1,7 @@
 {
 	"name": "Blue-Dark Themb",
 	"type": "dark",
+	"semanticHighlighting": true,
 	// "semanticTokenColors": {
 	//   "enumMember": {
 	// 	"foreground": "#56b6c2"
@@ -33,7 +34,7 @@
 	// 	"foreground": "#C792EA"
 	//   }
 	// },
-		"tokenColors": [
+	"tokenColors": [
 			//	storage.type.js.jsx
 			{
 			  "scope": "storage.type.js.jsx",
@@ -2128,8 +2129,6 @@
 			}
 		  }
 		],
-	  
-	  
 	  "colors": {
 		"editor.foreground": "#d8dee9",
 		"foreground": "#cccccc",
