@@ -1,39 +1,6 @@
 {
-	"name": "Blue Hacker Theme",
-	"semanticHighlighting": true,
+	"name": "Blue-Hacker Theme",
 	"type": "dark",
-	"semanticTokenColors": {
-	  "enumMember": {
-		"foreground": "#56b6c2"
-	  },
-	  "variable.constant": {
-		"foreground": "#d19a66"
-	  },
-	//   "variable.defaultLibrary": {
-	// 	"foreground": "#48dbfb"
-	//   },
-	  "variable:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "property:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "annotation:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "parameter.label:dart": {
-		"foreground": "#abb2bf"
-	  },
-	  "macro": {
-		"foreground": "#d19a66"
-	  },
-	  "tomlArrayKey": {
-		"foreground": "#e5c07b"
-	  },
-	  "memberOperatorOverload": {
-		"foreground": "#C792EA"
-	  }
-	},
 	"tokenColors": [
 		{
 			"name": "Comment",

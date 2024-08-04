@@ -1,39 +1,38 @@
 {
-	"name": "Blue-Drak Themb",
-	"semanticHighlighting": true,
+	"name": "Blue-Dark Themb",
 	"type": "dark",
-	"semanticTokenColors": {
-	  "enumMember": {
-		"foreground": "#56b6c2"
-	  },
-	  "variable.constant": {
-		"foreground": "#d19a66"
-	  },
-	//   "variable.defaultLibrary": {
-	// 	"foreground": "#48dbfb"
+	// "semanticTokenColors": {
+	//   "enumMember": {
+	// 	"foreground": "#56b6c2"
 	//   },
-	  "variable:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "property:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "annotation:dart": {
-		"foreground": "#d19a66"
-	  },
-	  "parameter.label:dart": {
-		"foreground": "#abb2bf"
-	  },
-	  "macro": {
-		"foreground": "#d19a66"
-	  },
-	  "tomlArrayKey": {
-		"foreground": "#e5c07b"
-	  },
-	  "memberOperatorOverload": {
-		"foreground": "#C792EA"
-	  }
-	},
+	//   "variable.constant": {
+	// 	"foreground": "#d19a66"
+	//   },
+	// //   "variable.defaultLibrary": {
+	// // 	"foreground": "#48dbfb"
+	// //   },
+	//   "variable:dart": {
+	// 	"foreground": "#d19a66"
+	//   },
+	//   "property:dart": {
+	// 	"foreground": "#d19a66"
+	//   },
+	//   "annotation:dart": {
+	// 	"foreground": "#d19a66"
+	//   },
+	//   "parameter.label:dart": {
+	// 	"foreground": "#abb2bf"
+	//   },
+	//   "macro": {
+	// 	"foreground": "#d19a66"
+	//   },
+	//   "tomlArrayKey": {
+	// 	"foreground": "#e5c07b"
+	//   },
+	//   "memberOperatorOverload": {
+	// 	"foreground": "#C792EA"
+	//   }
+	// },
 		"tokenColors": [
 			//	storage.type.js.jsx
 			{
@@ -2383,7 +2382,7 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#0f172a",
 		"debugExceptionWidget.border": "#1e293b"
-	},
+	}
 	// "tokenColors": [
 	// 	// Quy tắc cụ thể hơn
 	// 	{
