@@ -35,14 +35,30 @@
 	  }
 	},
 		"tokenColors": [
+			//storage.type
+			{
+			  "scope": "storage.type",
+			  "settings": {
+				"foreground": "#569CD6"
+			  }
+			},		
+			//	variable.other.constant.object.js
+			// {
+		
+			// "scope": "variable.other.constant.object.js",
+			//   "settings": {
+			// 	"foreground": "#d19a66"
+			//   }
+			// },
+			//	meta.var-single-variable.expr.js
+			{
+			  "scope": "meta.var.expr.js",
+			  "settings": {
+				"foreground": "#d19a66"
+			  }
+			},
 		  {
 			"scope": "variable.other.property.js",
-			"settings": {
-			  "foreground": "#79C0FF"
-			}
-		  },
-		  {
-			"scope": "variable.other.property",
 			"settings": {
 			  "foreground": "#79C0FF"
 			}
