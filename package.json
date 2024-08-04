@@ -2,7 +2,7 @@
   "name": "blue-dark-themb",
   "displayName": "Blue-Dark Themb",
   "description": "Themb Design By Nguyễn Thanh Hậu",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "publisher": "nguyenhauweb",
   "engines": {
     "vscode": "^1.92.0"
@@ -35,7 +35,7 @@
       {
         "label": "Blue Moon Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blue-Hacker-Theme-color-theme.json"
+        "path": "./themes/Blue-Moon-Theme-color-theme.json"
       }
     ]
   }
