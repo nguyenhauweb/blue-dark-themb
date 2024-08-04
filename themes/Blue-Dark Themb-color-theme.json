@@ -35,6 +35,20 @@
 	  }
 	},
 		"tokenColors": [
+			//	storage.type.js.jsx
+			{
+			  "scope": "storage.type.js.jsx",
+			  "settings": {
+				"foreground": "#C792EA"
+			  }
+			},
+			{
+			  "scope": "entity.name.function.jsx",
+			  "settings": {
+				"foreground": "#82AAFF"
+			  }
+			},
+			
 			//storage.type
 			{
 			  "scope": "storage.type",
