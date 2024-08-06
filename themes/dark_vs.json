@@ -352,22 +352,18 @@
             }
         },
         //"storage.modifier.sql"
-        {
-            "scope": "storage.modifier.sql",
-            "settings": {
-                "foreground": "#569cd6"
-            }
-        },
+      
         
         //	keyword.other
         {
+            "name" : "keyword.other (SQL)",
             "scope": [
-                // "keyword.other",
                 "keyword.other.DDL.create.II.sql",
                 "keyword.other.DML.sql",
                 "keyword.other.sql",
                 "keyword.other.create.sql",
-                
+                "storage.modifier.sql",
+                "keyword.other.DML.II.sql"
             ],
             "settings": {
                 "foreground": "#FF79C6"
