@@ -30,6 +30,13 @@
         "actionBar.toggledBackground": "#383a49"
     },
     "tokenColors": [
+        //source.ini
+        {
+            "scope": "source.ini",
+            "settings": {
+                "foreground": "#D4D4D4"
+            }
+        },
         {
             "scope": [
                 "meta.embedded",
