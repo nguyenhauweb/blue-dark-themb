@@ -351,6 +351,14 @@
                 "foreground": "#7DD3FC"
             }
         },
+        //"storage.modifier.sql"
+        {
+            "scope": "storage.modifier.sql",
+            "settings": {
+                "foreground": "#569cd6"
+            }
+        },
+        
         //	keyword.other
         {
             "scope": [
@@ -358,7 +366,8 @@
                 "keyword.other.DDL.create.II.sql",
                 "keyword.other.DML.sql",
                 "keyword.other.sql",
-                "keyword.other.create.sql"
+                "keyword.other.create.sql",
+                
             ],
             "settings": {
                 "foreground": "#FF79C6"
