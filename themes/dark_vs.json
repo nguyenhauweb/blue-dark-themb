@@ -351,9 +351,6 @@
                 "foreground": "#7DD3FC"
             }
         },
-        //"storage.modifier.sql"
-      
-        
         //	keyword.other
         {
             "name" : "keyword.other (SQL)",
@@ -370,12 +367,12 @@
             }
         },
         //	keyword.other.new
-        {
-            "scope": "keyword.other.new",
-            "settings": {
-                "foreground": "#569cd6"
-            }
-        },
+        // {
+        //     "scope": "keyword.other.new",
+        //     "settings": {
+        //         "foreground": "#569cd6"
+        //     }
+        // },
         {
             "scope": "keyword",
             "settings": {
