@@ -23,7 +23,10 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				"foreground": "#DECE9C"
+				// #DECE9C
+
+				// #f0d78c
 			}
 		},
 		{
