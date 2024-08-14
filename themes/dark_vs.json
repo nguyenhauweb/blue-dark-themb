@@ -30,6 +30,13 @@
         "actionBar.toggledBackground": "#383a49"
     },
     "tokenColors": [
+        //	variable.other.readwrite.js
+        {
+            "scope": "variable.other.readwrite",
+            "settings": {
+                "foreground": "#4FC1FF"
+            }
+        },
         //source.ini
         {
             "scope": "source.ini",
