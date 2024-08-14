@@ -32,7 +32,7 @@
     "tokenColors": [
         //	variable.other.readwrite.js
         {
-            "scope": "variable.other.readwrite",
+            "scope": "variable.other.readwrite.js",
             "settings": {
                 "foreground": "#4FC1FF"
             }
