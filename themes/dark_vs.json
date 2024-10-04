@@ -30,14 +30,18 @@
         "actionBar.toggledBackground": "#383a49"
     },
     "tokenColors": [
-        //	variable.other.readwrite.js
         {
             "scope": "variable.other.readwrite.js",
             "settings": {
                 "foreground": "#4FC1FF"
             }
         },
-        //source.ini
+        {
+            "scope": "entity.name.type.interface",
+            "settings": {
+                "foreground": "#b8d7a3"
+            }
+        },
         {
             "scope": "source.ini",
             "settings": {
@@ -124,7 +128,6 @@
                 "foreground": "#79C0FF"
             }
         },
-        //support.constant.property-value.css
         {
             "scope": "support.constant.property-value.css",
             "settings": {
@@ -141,7 +144,6 @@
 			  "foreground": "#56b6c2"
 			}
 		  },
-        //constant.other.color.rgb-value.hex.css
         {
             "scope": "constant.other.color.rgb-value.hex.css",
             "settings": {
@@ -157,7 +159,6 @@
                 "entity.other.attribute-name.parent-selector.css",
                 "entity.other.attribute-name.parent.less",
                 "source.css entity.other.attribute-name.pseudo-class",
-                // "entity.other.attribute-name.pseudo-element.css",
                 "source.css.less entity.other.attribute-name.id",
                 "entity.other.attribute-name.scss"
             ],
@@ -358,7 +359,6 @@
                 "foreground": "#7DD3FC"
             }
         },
-        //	keyword.other
         {
             "name" : "keyword.other (SQL)",
             "scope": [
@@ -373,13 +373,6 @@
                 "foreground": "#FF79C6"
             }
         },
-        //	keyword.other.new
-        // {
-        //     "scope": "keyword.other.new",
-        //     "settings": {
-        //         "foreground": "#569cd6"
-        //     }
-        // },
         {
             "scope": "keyword",
             "settings": {
